@@ -1,0 +1,1 @@
+function dropdownMenu(){document.getElementById("myDropdown").classList.toggle("show")}window.onclick=function(o){if(!o.target.matches(".dropbtn")){var n,t=document.getElementsByClassName("dropdown-content");for(n=0;n<t.length;n++){var e=t[n];e.classList.contains("show")&&e.classList.remove("show")}}};
