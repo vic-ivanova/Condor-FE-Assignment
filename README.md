@@ -1,1 +1,1 @@
-# Condor-FE-Assignment
+# Condor Gaming Front-End Assignment
